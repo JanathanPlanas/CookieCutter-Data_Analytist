@@ -1,6 +1,5 @@
 {
     "project_name": "Analise MIS|MF => TIM",
-    "repo_name": " [OPTIONAL]{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
     "author_name": "Autores do Projeto",
     "description": "Breve descrição do Projeto.",
     "sql_server_scripts": true,
